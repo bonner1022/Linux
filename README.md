@@ -1,6 +1,2 @@
 # Linux
-We show the ability to use Linux commands in the terminal to communicate with the Shell to navigate the filesystem, display directory/file contents and file path. 
-
-We use Linux to perform some fundamental system administation operations, like using `apt` for installing and updating packages. We also use Linux to open text editors, enter text and save files, and also using Bash to interpret Linux commands in txt files.
-
-Use informational commands to display information on system, users, processes information. 
+We show the ability to use fundamentals of Linux, using commands in the terminal to communicate with the Shell to navigate the filesystem, display directory and file contents and the absolute and relative file paths of corresponding files. We show how to use Linux to perform some fundamental system administation operations, like using `apt` for installing and updating packages. We also display how to utilize Linux to open text editors for the purpose of creating and saving text files, and using a _Bash_ command to interpret Linux commands in txt files. We display the basic use of informational commands to display system information, the users associated with the system and information of processes running on the system. All of this is portrayed in _LinuxIntro.md_. 
