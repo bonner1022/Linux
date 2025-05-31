@@ -1,11 +1,14 @@
 # Getting Started with Linux Terminal 
 
 ## Project Objective
-This project gives us experience using Linux commands to perform the following tasks.
-- Interact with the Linux terminal
+This project gives us experience using Linux commands to interact with the Linux terminal to perform the following tasks.
 - Browse directories on a Linux filesystem using the ls command
 - Navigate directories using the cd command
 - Save time and effort by using tab completion and your command history
+- Use sudo command to enable access to "super-user" system administration tools
+- Use the apt(system administration) command to update and install two popular packages for text editing: nano and Vim
+- Create and edit text files using nano and Vim
+- Use Bash to interpret commands included within a text file
 
 ## Tasks
 ### Viewing files in the current working directory
@@ -24,3 +27,5 @@ We use `cd ..` to navigate to the parent directory of the home directory and the
 we also use `cd /` to navigate to the root directory of the machine. We use `ls` at each step to verify the results.
 
 <img width="620" alt="cd" src="https://github.com/user-attachments/assets/11de80c7-feae-4a27-bc8d-a0bbb37fb9d9" />
+
+### Installing, Updating and Working with Text Editors
